@@ -1,5 +1,8 @@
 # Looze Nutz Official
-### Hi there 👋
+
+
+## About Me
+
 ### 🔭 I’m currently working on Youtube
 ### 🌱 I’m currently learning 11th Class
 ### 👯 I’m looking to collaborate on Electronic Engineering
