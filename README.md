@@ -1,6 +1,6 @@
 # Looze Nutz Official
-<p>👋🏻Hello Freinds,<br>
-  My Name Is Mohamed Jasim. I Am From Kerala, India. In Have A Channel Named Looze Nutz. I Will Upload Technical Videos, RC Car Videos, Bicycle Videos, etc. In That Channel. I Hope You Will Support This Channel By Subscribing, If You Suscribed This Channel That Will Worth You And Me Too (GIVEAWAYS).</p>
+<p>👋🏻Hello Freinds,</p>
+<p>My Name Is Mohamed Jasim. I Am From Kerala, India. In Have A Channel Named Looze Nutz. I Will Upload Technical Videos, RC Car Videos, Bicycle Videos, etc. In That Channel. I Hope You Will Support This Channel By Subscribing, If You Suscribed This Channel That Will Worth You And Me Too (GIVEAWAYS).</p>
 ## About Me
 ### 🔭 I’m currently working on Youtube
 ### 🌱 I’m currently learning 11th Class
